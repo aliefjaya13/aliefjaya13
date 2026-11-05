@@ -61,35 +61,7 @@ Saya senang mempelajari hal baru, membangun project, mengeksplorasi teknologi, s
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliefjaya13&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliefjaya13&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+Portofolio :
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliefjaya13&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliefjaya13&theme=tokyo-night&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@aliefjaya13](https://github.com/aliefjaya13)
-
----
-
-<p align="center">
-  <i>"Turning ideas into code, and code into solutions."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+aliefjayapurnama.page.gd
